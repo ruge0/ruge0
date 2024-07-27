@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ruge.
+- 👋 Hi, I’m @ruge0.
 - 👀 I’m interested in C++.
 - 🌱 Currently, I’m studying operating systems for autonomous driving controllers.
 - 💞️ I’m interested in collaborating on the development of operating systems for autonomous driving controllers.
