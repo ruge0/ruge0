@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ruge0
 - 👀 I’m interested in C++
-- 🌱 I’m currently learning network service
-- 💞️ I’m looking to collaborate on net service
+- 🌱 I’m currently learning about the operating system for autonomous driving controllers.
+- 💞️ I’m looking to collaborate on the development of operating systems for autonomous driving controllers.
 - 📫 How to reach me email：ruge.cool@qq.com
 
 <!---
